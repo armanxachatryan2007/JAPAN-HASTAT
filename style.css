@@ -26,15 +26,7 @@ body {
     font-size: 55px;
 }
 
-.i {
-    color: yellow;
-}
-
-.o {
-    color: yellow;
-}
-
-.a {
+.i, .o, .a {
     color: yellow;
 }
 
@@ -65,6 +57,11 @@ body {
     animation: gerbiflag 0.5s alternate-reverse infinite;
 }
 
+.brends {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
 .intro__one {
     text-align: center;
 }
@@ -78,6 +75,109 @@ body {
     border: 1px solid black;
     border-color: white;
     padding: 25px;
-    align-items: center;
     border-radius: 15px;
+}
+
+.mont-bell {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.mont-bell-jpg {
+    width: 250px;
+    margin-bottom: 30px;
+}
+
+.icon-png {
+    margin-bottom: 30px;
+}
+
+.mont-bell-text {
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+.n, .nn, .r, .rr {
+    color: yellow;
+}
+
+.casio {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.casio-jpg {
+    width: 250px;
+    margin-bottom: 30px;
+}
+
+.icon-png {
+    margin-bottom: 30px;
+}
+
+.casio-text {
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+.uniqlo {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.uniqlo-jpg {
+    width: 250px;
+    margin-bottom: 30px;
+}
+
+.icon-png {
+    margin-bottom: 30px;
+}
+
+.uniqlo-text {
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+.hitachi {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.hitachi-jpg {
+    width: 250px;
+    margin-bottom: 30px;
+}
+
+.icon-png {
+    margin-bottom: 30px;
+}
+
+.hitachi-text {
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+.toshiba {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.toshiba-jpg {
+    width: 250px;
+    margin-bottom: 30px;
+}
+
+.icon-png {
+    margin-bottom: 30px;
+}
+
+.toshiba-text {
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 25px;
 }
